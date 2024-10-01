@@ -1,0 +1,18 @@
+{
+  "Tags": [
+    {
+      "Key": "Calculate Client Security Hash"
+    },
+    {
+      "Key": "ACME"
+    },
+    {
+      "Key": "Work Item 5"
+    },
+    {
+      "Key": "WI5"
+    }
+  ],
+  "SeparateRuntimeDependencies": true,
+  "IncludeSources": true
+}
